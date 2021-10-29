@@ -1,1 +1,1 @@
-# detail.php
+# fix-pisan
